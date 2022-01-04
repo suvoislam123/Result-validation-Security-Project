@@ -3,7 +3,7 @@
             <main>
                 <!-- toggleable dynamic tab starts here -->
                 <div class="other-section">
-                    <ul class="nav nav-pills justify-content-center">
+                    <ul class="nav nav-pills justify-content-center mt-5">
                         <li class="nav-item"><a data-toggle="pill" class="nav-link active" href="#form1"><i class="fas fa-user-alt"></i>Individual Result</a></li>
                         <li class="nav-item"><a data-toggle="pill" class="nav-link" href="#form2"><i class="fas fa-users"></i>Group Result</a></li>
                         
